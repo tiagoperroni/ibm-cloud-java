@@ -1,0 +1,5 @@
+com\tiagoperroni\consultacep\service\EnderecoService.class
+com\tiagoperroni\consultacep\repository\EnderecoRepository.class
+com\tiagoperroni\consultacep\ConsultaCepApplication.class
+com\tiagoperroni\consultacep\controller\ConsultaCepController.class
+com\tiagoperroni\consultacep\model\Endereco.class
